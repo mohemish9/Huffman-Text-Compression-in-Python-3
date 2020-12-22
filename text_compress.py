@@ -145,3 +145,5 @@ def outputfiles(filename, prefixsdict, bitslist, reallen):
     f3.write(bytes(bitslist))
     f3.close()
 
+if __name__ == '__main__':
+    compress()
