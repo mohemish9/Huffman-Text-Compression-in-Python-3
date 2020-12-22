@@ -101,3 +101,6 @@ def decode(restorednums,keysdict):
         else:
             counter+=1
     return output
+
+if __name__ == '__main__':
+    uncompress()
