@@ -11,7 +11,8 @@ Scan the data and calculate the frequency of occurrence of each byte;
 * Insert the two nodes removed from the queue as children of the created internal node;
 * Insert the created internal node into the queue;
 * The last node remaining on the queue is the root of the tree.
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techiedelight.com%2Fhuffman-coding%2F&psig=AOvVaw2KW6QkIe7QzwS0TloZnFo4&ust=1608749125354000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCjq9uf4u0CFQAAAAAdAAAAABAD)
+
+![alt text](https://www.techiedelight.com/wp-content/uploads/2016/11/Huffman-Coding-6.png)
 
 ### Prerequisites
 Python 3.7+ 
